@@ -23,7 +23,7 @@ Node.js api server for react native axios request example
 ---
 # Contribute 
 
->Give a thanks with coffee [Here](https://www.buymeacoffee.com/ayushnavadiya).
+>Give a thanks with coffee [Here](https://www.buymeacoffee.com/ayushnavadiya).\
 >https://www.buymeacoffee.com/ayushnavadiya
 
 
